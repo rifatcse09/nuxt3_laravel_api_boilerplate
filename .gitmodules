@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/rifatcse09/api.git
+
+[submodule "frontend"]
+        path = frontend
+        url = https://github.com/rifatcse09/frontend.git
+
