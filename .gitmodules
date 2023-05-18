@@ -1,8 +1,8 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/rifatcse09/api.git
+	url = https://rifatcse09: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@github.com/rifatcse09/api.git
 
 [submodule "frontend"]
-        path = frontend
-        url = https://github.com/rifatcse09/frontend.git
+	path = frontend
+	url = https://rifatcse09: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@github.com/rifatcse09/frontend.git
 
